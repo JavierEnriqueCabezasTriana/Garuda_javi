@@ -19,3 +19,4 @@ Garuda Linux es una distribución de Linux que proporciona a los usuarios un ent
 ![](/Capturas/12.png)
 ![](/Capturas/13.png)
 ![](/Capturas/14.png)
+![](/capturas%20garuda/VirtualBox_Garuda_25_03_2022_12_40_53.png)
